@@ -1,0 +1,22 @@
+{
+	"folders": [
+		{
+			"path": "../../odin-recipes/recipes"
+		},
+		{
+			"path": "../../odin-recipes"
+		},
+		{
+			"path": "../../test"
+		},
+		{
+			"path": "../../css-exercises/foundations/flex"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"livePreview.portNumber": 5500
+	}
+}
